@@ -22,7 +22,7 @@ function App() {
           </Route>
           <Route path='/'>
             <Header />
-            <h3>Default</h3>
+            <h3>Default page</h3>
           </Route>
         </Switch>
 
